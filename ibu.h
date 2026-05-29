@@ -3,6 +3,6 @@
 #include <vector>
 
 class ibu {
-
+public:
 };
 #endif
